@@ -33,6 +33,7 @@ const quizArray= [
       options: ["Aryabhatta ", "Stephen Hawking", "Albert Einstein", "Nobody"],
       correct: "Aryabhatta ",
     },
+    
   ];
  
 // to display quiz on click start button

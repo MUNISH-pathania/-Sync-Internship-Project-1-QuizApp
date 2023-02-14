@@ -23,7 +23,7 @@ body{
 }
 #start-btn,
 .restart{
-padding: 20px 30px;
+padding: 20px 80px;
 border-radius: 10px;
 border:none;
 font-size: 20px;
@@ -65,9 +65,9 @@ font-size: 20px;
   border-radius: 1.8em;
 }
 #next-btn{
-    background:#0a69ed;
+    background:#66ac92;
     color: #e1f5fe;
-    padding: 10px 40px;
+    padding: 10px 50px;
     margin-top: 50px;
     border-radius:10px;
     border: none;
